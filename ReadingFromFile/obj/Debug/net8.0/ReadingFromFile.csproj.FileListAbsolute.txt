@@ -1,0 +1,15 @@
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/bin/Debug/net8.0/ReadingFromFile
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/bin/Debug/net8.0/ReadingFromFile.deps.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/bin/Debug/net8.0/ReadingFromFile.runtimeconfig.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/bin/Debug/net8.0/ReadingFromFile.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/bin/Debug/net8.0/ReadingFromFile.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/ReadingFromFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/ReadingFromFile.AssemblyInfoInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/ReadingFromFile.AssemblyInfo.cs
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/ReadingFromFile.csproj.CoreCompileInputs.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/ReadingFromFile.sourcelink.json
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/ReadingFromFile.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/refint/ReadingFromFile.dll
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/ReadingFromFile.pdb
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/ReadingFromFile.genruntimeconfig.cache
+/Users/mylaptop/Projects/LaunchCode/C#/Chapter3/Studio/ReadingFromFile/obj/Debug/net8.0/ref/ReadingFromFile.dll
